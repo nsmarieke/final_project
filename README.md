@@ -1,16 +1,17 @@
 #  Final project on crowd level of trains
 
 # Project description
-In this project the crowd level of the train route between Zandvoort and Overveen is predicted. Data exploration and preprocessing is done and a logistic model is fitted and the results are displayed.
+In this project the crowd level of the train route between Zandvoort and Overveen is predicted. Data exploration and preprocessing is done and a logistic model and a decision tree are fitted and the results are displayed.
 
 # File description
-In this repository there are three notebooks and one folder with three datasets.
+In this repository there are four notebooks and one folder with three datasets.
 In the data_exploration.ipynb the business understanding, data understanding and data exploration is done on the classification and weather data.
 In the data_preprocessing.ipynb the data preprocessing is done and the classification and weather data are merged to one csv.
-In the model.ipynb a logistic regression model is build on the merged dataset. 
-The folder contains the data of the classification, weather and the merged dataset from data_reprocessing.ipynb.
+In the logistic_regression.ipynb a logistic regression model is build on the merged dataset. 
+In the decision_tree.ipynb a decision tree model is build on the merged dataset and results are displayed.
+The folder contains the data of the classification, weather and the merged dataset from data_reprocessing.ipynb and results are displayed.
 
-The notebooks are documented with markdown to assist in understanding the notebook
+The notebooks are documented with markdown to assist in understanding the notebook.
 
 # Installation instruction
 Besides the anaconda distribution of python no further installations are needed
