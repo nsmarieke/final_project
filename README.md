@@ -16,7 +16,7 @@ The notebooks are documented with markdown to assist in understanding the notebo
 Besides the anaconda distribution of python no further installations are needed
 
 # Results
-The results can be found in the model.ipynb and in the following blog post: link
+The results can be found in the model.ipynb and in the following blog post: https://medium.com/@nsmarieke/crowd-level-in-train-to-the-beach-874d7715111d
 
 # Source code
 https://github.com/nsmarieke/final_project
