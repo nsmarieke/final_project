@@ -16,8 +16,17 @@ The notebooks are documented with markdown to assist in understanding the notebo
 # Installation instruction
 Besides the anaconda distribution of python no further installations are needed
 
+# Libraries used
+The following libraries where used:
+pandas == 1.5.3
+matplotlib == 3.7.0
+seaborn == 0.12.2
+
 # Results
 The results can be found in the model.ipynb and in the following blog post: https://medium.com/@nsmarieke/crowd-level-in-train-to-the-beach-874d7715111d
 
 # Source code
 https://github.com/nsmarieke/final_project
+
+# Acknowledgements
+The dataset were provided by NS.
